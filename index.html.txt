@@ -1,0 +1,1112 @@
+<!-- ============================================================ -->
+<!-- CYBER DOCTRINE — HOMEPAGE BODY                              -->
+<!-- Kajabi: Page Editor → Custom Code block → paste this        -->
+<!-- ============================================================ -->
+
+<div class="cd-wrapper">
+
+<!-- Announcement -->
+<div class="cd-announce">
+  🔒 Limited spots: 30-Day Cyber Risk Pilot now open — &nbsp;<a href="https://thecyberdoctrine.mykajabi.com/joinus">Claim your spot →</a>
+</div>
+
+<!-- Nav -->
+<nav class="cd-nav">
+  <a href="#" class="cd-nav-logo">
+    <div class="cd-nav-logo-icon">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none"><path d="M12 2L4 6v6c0 5.25 3.5 10.15 8 11.35C16.5 22.15 20 17.25 20 12V6l-8-4z" fill="white"/></svg>
+    </div>
+    CYBER<span>DOCTRINE</span>
+  </a>
+  <ul class="cd-nav-links">
+    <li class="has-drop">
+      <a href="#">For Organizations ▾</a>
+      <div class="cd-dropdown">
+        <a href="#pilot">30-Day Pilot Program</a>
+        <a href="#tools">Free Assessment Tools</a>
+        <a href="#audience">Security Awareness Training</a>
+      </div>
+    </li>
+    <li class="has-drop">
+      <a href="#">For Individuals ▾</a>
+      <div class="cd-dropdown">
+        <a href="#audience">Career Training</a>
+        <a href="#tools">Free Tools & Resources</a>
+      </div>
+    </li>
+    <li><a href="#tools">Free Tools</a></li>
+    <li><a href="#pilot">Pricing</a></li>
+  </ul>
+  <div class="cd-nav-actions">
+    <a href="https://calendly.com/thecyberdoctrine/30min" class="cd-btn-ghost" target="_blank">Book a Call</a>
+    <a href="https://thecyberdoctrine.mykajabi.com/joinus" class="cd-btn-nav" target="_blank">
+      Get Started →
+    </a>
+  </div>
+</nav>
+
+<!-- Hero -->
+<section class="cd-hero">
+  <div class="cd-hero-grid"></div>
+  <div class="cd-hero-glow"></div>
+  <div class="cd-hero-inner">
+    <div>
+      <div class="cd-hero-eyebrow">
+        <svg width="10" height="10" viewBox="0 0 24 24" fill="none"><path d="M12 2L4 6v6c0 5.25 3.5 10.15 8 11.35C16.5 22.15 20 17.25 20 12V6l-8-4z" fill="#93c5fd"/></svg>
+        Cybersecurity Training & Risk Reduction
+      </div>
+      <h1>Protect Your<br/><em>People.</em><br/>Grow Your Career.</h1>
+      <p class="cd-hero-sub">Cyber Doctrine delivers real-world cybersecurity training for businesses that need their teams protected — and for individuals ready to launch or advance a cybersecurity career.</p>
+      <div class="cd-hero-btns">
+        <a href="#audience" class="cd-btn-primary">For Organizations →</a>
+        <a href="#audience" class="cd-btn-outline">For Individuals →</a>
+      </div>
+    </div>
+    <div class="cd-hero-card">
+      <h3>WHERE DO YOU FIT?</h3>
+      <p>Get matched to the right path for you.</p>
+      <div class="cd-audience-tabs">
+        <button class="cd-tab active" onclick="switchTab(this,'b2b')">My Business</button>
+        <button class="cd-tab" onclick="switchTab(this,'b2c')">My Career</button>
+      </div>
+      <ul class="cd-hero-stat-list" id="tab-b2b">
+        <li><span class="cd-stat-dot"></span>Measure employee cyber risk</li>
+        <li><span class="cd-stat-dot"></span>Run phishing simulations</li>
+        <li><span class="cd-stat-dot"></span>Deliver targeted training</li>
+        <li><span class="cd-stat-dot"></span>Get a full risk report in 30 days</li>
+        <li><span class="cd-stat-dot"></span>Zero IT involvement required</li>
+      </ul>
+      <ul class="cd-hero-stat-list" id="tab-b2c" style="display:none;">
+        <li><span class="cd-stat-dot"></span>Learn from real-world scenarios</li>
+        <li><span class="cd-stat-dot"></span>Build job-ready cyber skills</li>
+        <li><span class="cd-stat-dot"></span>Access free assessment tools</li>
+        <li><span class="cd-stat-dot"></span>Get a personalized roadmap</li>
+        <li><span class="cd-stat-dot"></span>Advance your career faster</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<!-- Stat Bar -->
+<div class="cd-stat-bar">
+  <div class="cd-stat-item">
+    <div class="cd-stat-num">30</div>
+    <div class="cd-stat-label">Day Pilot Program</div>
+  </div>
+  <div class="cd-stat-item">
+    <div class="cd-stat-num">24H</div>
+    <div class="cd-stat-label">To Launch</div>
+  </div>
+  <div class="cd-stat-item">
+    <div class="cd-stat-num">7</div>
+    <div class="cd-stat-label">Free Tools Available</div>
+  </div>
+  <div class="cd-stat-item">
+    <div class="cd-stat-num">0</div>
+    <div class="cd-stat-label">IT Setup Required</div>
+  </div>
+  <div class="cd-stat-item">
+    <div class="cd-stat-num">100%</div>
+    <div class="cd-stat-label">Managed For You</div>
+  </div>
+</div>
+
+<!-- Audience Split -->
+<section class="cd-section cd-section-light" id="audience">
+  <div class="cd-container">
+    <div class="cd-section-header center">
+      <span class="cd-label">Who We Serve</span>
+      <h2 class="cd-h2">Built for Businesses.<br/>Built for Careers.</h2>
+      <p class="cd-h2-sub">Whether you're a company leader trying to protect your team, or an individual building a cybersecurity career — Cyber Doctrine has a path for you.</p>
+    </div>
+    <div class="cd-audience-grid">
+      <div class="cd-audience-card b2b">
+        <div class="cd-audience-icon">🏢</div>
+        <h3>FOR ORGANIZATIONS</h3>
+        <p>Protect your employees from phishing, social engineering, and human-error breaches with our fully-managed 30-Day Cyber Risk Pilot.</p>
+        <ul class="cd-audience-list">
+          <li><span class="cd-check"><svg viewBox="0 0 10 10" fill="none"><path d="M2 5l2.5 2.5L8 3" stroke="#014091" stroke-width="1.5" stroke-linecap="round"/></svg></span>Behavioral risk assessment for your whole team</li>
+          <li><span class="cd-check"><svg viewBox="0 0 10 10" fill="none"><path d="M2 5l2.5 2.5L8 3" stroke="#014091" stroke-width="1.5" stroke-linecap="round"/></svg></span>Personalized phishing simulations</li>
+          <li><span class="cd-check"><svg viewBox="0 0 10 10" fill="none"><path d="M2 5l2.5 2.5L8 3" stroke="#014091" stroke-width="1.5" stroke-linecap="round"/></svg></span>Leadership risk report & action plan</li>
+          <li><span class="cd-check"><svg viewBox="0 0 10 10" fill="none"><path d="M2 5l2.5 2.5L8 3" stroke="#014091" stroke-width="1.5" stroke-linecap="round"/></svg></span>1–100 employees, fully managed</li>
+          <li><span class="cd-check"><svg viewBox="0 0 10 10" fill="none"><path d="M2 5l2.5 2.5L8 3" stroke="#014091" stroke-width="1.5" stroke-linecap="round"/></svg></span>Free assessment tools to get started now</li>
+        </ul>
+        <a href="#pilot" class="cd-audience-cta">See the Pilot Program →</a>
+      </div>
+      <div class="cd-audience-card b2c">
+        <div class="cd-audience-icon">🎓</div>
+        <h3>FOR INDIVIDUALS</h3>
+        <p>Whether you're new to cybersecurity or looking to level up, Cyber Doctrine provides tools, training, and a roadmap to grow your career.</p>
+        <ul class="cd-audience-list">
+          <li><span class="cd-check"><svg viewBox="0 0 10 10" fill="none"><path d="M2 5l2.5 2.5L8 3" stroke="#014091" stroke-width="1.5" stroke-linecap="round"/></svg></span>Free cybersecurity assessment & skill gap tools</li>
+          <li><span class="cd-check"><svg viewBox="0 0 10 10" fill="none"><path d="M2 5l2.5 2.5L8 3" stroke="#014091" stroke-width="1.5" stroke-linecap="round"/></svg></span>Personalized learning roadmap</li>
+          <li><span class="cd-check"><svg viewBox="0 0 10 10" fill="none"><path d="M2 5l2.5 2.5L8 3" stroke="#014091" stroke-width="1.5" stroke-linecap="round"/></svg></span>Understand your current security posture</li>
+          <li><span class="cd-check"><svg viewBox="0 0 10 10" fill="none"><path d="M2 5l2.5 2.5L8 3" stroke="#014091" stroke-width="1.5" stroke-linecap="round"/></svg></span>Practice with real-world simulations</li>
+          <li><span class="cd-check"><svg viewBox="0 0 10 10" fill="none"><path d="M2 5l2.5 2.5L8 3" stroke="#014091" stroke-width="1.5" stroke-linecap="round"/></svg></span>Coming soon: full career training programs</li>
+        </ul>
+        <a href="#tools" class="cd-audience-cta">Explore Free Tools →</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Free Tools Section -->
+<section class="cd-section cd-section-gray" id="tools">
+  <div class="cd-container">
+    <div class="cd-section-header">
+      <span class="cd-label">Free For Everyone</span>
+      <h2 class="cd-h2">7 Free Cybersecurity Tools</h2>
+      <p class="cd-h2-sub">Get an instant pulse on your organization's security posture. No signup required — start any tool below in seconds.</p>
+    </div>
+    <div class="cd-tools-grid">
+
+      <div class="cd-tool-card">
+        <div class="cd-tool-badge">✦ Free Tool</div>
+        <div class="cd-tool-icon">🎯</div>
+        <h3>Personalized Mini Risk Assessment</h3>
+        <p>Answer 10 questions about your business and get a custom cyber risk score with prioritized recommendations.</p>
+        <a href="#tool-risk" class="cd-tool-link" onclick="openTool('tool-risk')">Launch Tool →</a>
+      </div>
+
+      <div class="cd-tool-card">
+        <div class="cd-tool-badge">✦ Free Tool</div>
+        <div class="cd-tool-icon">📊</div>
+        <h3>Cybersecurity Benchmarking Quiz</h3>
+        <p>See how your security practices compare to industry standards and peer organizations in your sector.</p>
+        <a href="#tool-benchmark" class="cd-tool-link" onclick="openTool('tool-benchmark')">Launch Tool →</a>
+      </div>
+
+      <div class="cd-tool-card">
+        <div class="cd-tool-badge">✦ Free Tool</div>
+        <div class="cd-tool-icon">✅</div>
+        <h3>Compliance Gap Checklist</h3>
+        <p>Identify gaps against NIST, SOC 2, HIPAA, and other frameworks with a guided interactive checklist.</p>
+        <a href="#tool-compliance" class="cd-tool-link" onclick="openTool('tool-compliance')">Launch Tool →</a>
+      </div>
+
+      <div class="cd-tool-card">
+        <div class="cd-tool-badge">✦ Free Tool</div>
+        <div class="cd-tool-icon">💰</div>
+        <h3>Tailored ROI Calculator</h3>
+        <p>Calculate the potential financial return of investing in employee cybersecurity training for your team size.</p>
+        <a href="#tool-roi" class="cd-tool-link" onclick="openTool('tool-roi')">Launch Tool →</a>
+      </div>
+
+      <div class="cd-tool-card">
+        <div class="cd-tool-badge">✦ Free Tool</div>
+        <div class="cd-tool-icon">🗺️</div>
+        <h3>Security Maturity Roadmap</h3>
+        <p>Get a guided, step-by-step roadmap to improve your organization's cybersecurity maturity over 90 days.</p>
+        <a href="#tool-roadmap" class="cd-tool-link" onclick="openTool('tool-roadmap')">Launch Tool →</a>
+      </div>
+
+      <div class="cd-tool-card">
+        <div class="cd-tool-badge">✦ Free Tool</div>
+        <div class="cd-tool-icon">⚡</div>
+        <h3>Mock Cyberattack Simulation</h3>
+        <p>Experience a simulated cyberattack scenario and see how your current defenses would respond in real-time.</p>
+        <a href="#tool-simulation" class="cd-tool-link" onclick="openTool('tool-simulation')">Launch Tool →</a>
+      </div>
+
+      <div class="cd-tool-card">
+        <div class="cd-tool-badge">✦ Free Tool</div>
+        <div class="cd-tool-icon">🔍</div>
+        <h3>Cybersecurity Diagnostic Checklist</h3>
+        <p>A comprehensive diagnostic that reveals your biggest blind spots across people, process, and technology.</p>
+        <a href="#tool-diagnostic" class="cd-tool-link" onclick="openTool('tool-diagnostic')">Launch Tool →</a>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- TOOL MODALS -->
+<div id="cd-tool-overlay" style="display:none; position:fixed; inset:0; background:rgba(0,0,0,0.6); z-index:1000; overflow-y:auto; padding:40px 20px;">
+  <div style="max-width:800px; margin:0 auto; position:relative;">
+    <button onclick="closeTool()" style="position:absolute; top:-40px; right:0; background:none; border:none; color:white; font-size:28px; cursor:pointer; font-family:sans-serif;">✕</button>
+    <div id="cd-tool-content"></div>
+  </div>
+</div>
+
+<!-- Pilot Program Section -->
+<section class="cd-section cd-section-navy" id="pilot">
+  <div class="cd-container">
+    <div class="cd-pilot-inner">
+      <div>
+        <span class="cd-label">The Core Offering</span>
+        <h2 class="cd-h2">The 30-Day Cyber Risk Pilot Program</h2>
+        <p class="cd-h2-sub">A fully managed, end-to-end cybersecurity training and risk reduction program — launched in under 24 hours, zero IT required.</p>
+        <div class="cd-pilot-features">
+          <div class="cd-pilot-feature">
+            <h4>🎯 Risk Assessment</h4>
+            <p>Deep behavioral analysis of every employee</p>
+          </div>
+          <div class="cd-pilot-feature">
+            <h4>📧 Phishing Simulations</h4>
+            <p>Real, role-based attack scenarios</p>
+          </div>
+          <div class="cd-pilot-feature">
+            <h4>🎓 Training Modules</h4>
+            <p>Video + quiz-based micro learning</p>
+          </div>
+          <div class="cd-pilot-feature">
+            <h4>📋 Risk Report</h4>
+            <p>Executive-ready leadership dashboard</p>
+          </div>
+          <div class="cd-pilot-feature">
+            <h4>📈 Before & After</h4>
+            <p>Measurable improvement documented</p>
+          </div>
+          <div class="cd-pilot-feature">
+            <h4>🗺️ Action Plan</h4>
+            <p>Clear roadmap for what comes next</p>
+          </div>
+        </div>
+      </div>
+      <div class="cd-price-card">
+        <h3>SELECT YOUR PLAN</h3>
+        <p class="cd-price-sub">All tiers include the full program. Pick your team size.</p>
+        <div class="cd-price-tiers">
+          <div class="cd-price-tier selected" onclick="selectTier(this, 'https://thecyberdoctrine.mykajabi.com/offers/LJSAJwrp/checkout')">
+            <div>
+              <div class="cd-price-tier-label">Startup Team</div>
+              <div class="cd-price-tier-employees">1–15 employees</div>
+            </div>
+            <div class="cd-price-tier-price">$1,500</div>
+          </div>
+          <div class="cd-price-tier" onclick="selectTier(this, 'https://thecyberdoctrine.mykajabi.com/offers/DyJBE3NX/checkout')">
+            <div>
+              <div class="cd-price-tier-label">Growing Team ⭐</div>
+              <div class="cd-price-tier-employees">16–50 employees</div>
+            </div>
+            <div class="cd-price-tier-price">$3,500</div>
+          </div>
+          <div class="cd-price-tier" onclick="selectTier(this, 'https://thecyberdoctrine.mykajabi.com/offers/coNhStQ2/checkout')">
+            <div>
+              <div class="cd-price-tier-label">Scaling Team</div>
+              <div class="cd-price-tier-employees">50–100 employees</div>
+            </div>
+            <div class="cd-price-tier-price">$5,000</div>
+          </div>
+        </div>
+        <a href="https://thecyberdoctrine.mykajabi.com/offers/LJSAJwrp/checkout" id="cd-checkout-btn" class="cd-price-card-cta" target="_blank">Enroll Now →</a>
+        <a href="https://calendly.com/thecyberdoctrine/30min" class="cd-price-card-cal" target="_blank">📅 Book a Free Call First</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Testimonials -->
+<section class="cd-section cd-section-light">
+  <div class="cd-container">
+    <div class="cd-section-header center">
+      <span class="cd-label">Social Proof</span>
+      <h2 class="cd-h2">Trusted by Teams Who Take Security Seriously</h2>
+    </div>
+    <div class="cd-testimonials">
+      <div class="cd-testimonial">
+        <div class="cd-testimonial-stars">★★★★★</div>
+        <p>"We had no idea how vulnerable our team was until Cyber Doctrine ran the simulation. The report was eye-opening and the training was simple to roll out."</p>
+        <div class="cd-testimonial-author">
+          <div class="cd-testimonial-avatar">MR</div>
+          <div>
+            <div class="cd-testimonial-name">Marcus R.</div>
+            <div class="cd-testimonial-title">COO, Healthcare Startup</div>
+          </div>
+        </div>
+      </div>
+      <div class="cd-testimonial">
+        <div class="cd-testimonial-stars">★★★★★</div>
+        <p>"The free tools alone gave me more clarity than any expensive consultant I've hired. The ROI calculator made the case for training instantly to our board."</p>
+        <div class="cd-testimonial-author">
+          <div class="cd-testimonial-avatar">ST</div>
+          <div>
+            <div class="cd-testimonial-name">Sarah T.</div>
+            <div class="cd-testimonial-title">CEO, Professional Services Firm</div>
+          </div>
+        </div>
+      </div>
+      <div class="cd-testimonial">
+        <div class="cd-testimonial-stars">★★★★★</div>
+        <p>"As someone breaking into cybersecurity, the roadmap tool gave me exactly what I needed to know where to focus. Incredibly practical."</p>
+        <div class="cd-testimonial-author">
+          <div class="cd-testimonial-avatar">JL</div>
+          <div>
+            <div class="cd-testimonial-name">James L.</div>
+            <div class="cd-testimonial-title">Aspiring Cybersecurity Analyst</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CTA Section -->
+<div class="cd-cta-section">
+  <div style="position:relative; max-width:700px; margin:0 auto;">
+    <h2>Start Protecting Your Business Today</h2>
+    <p>Run a free assessment in 5 minutes, or book a call to learn how the pilot works.</p>
+    <div class="cd-cta-btns">
+      <a href="#tools" class="cd-btn-white">🔧 Try Free Tools</a>
+      <a href="https://calendly.com/thecyberdoctrine/30min" class="cd-btn-white-outline" target="_blank">📅 Book a Call</a>
+    </div>
+  </div>
+</div>
+
+<!-- Footer -->
+<footer class="cd-footer">
+  <div class="cd-footer-grid">
+    <div class="cd-footer-brand">
+      <a href="#" class="cd-footer-logo">CYBER<span>DOCTRINE</span></a>
+      <p>Real-world cybersecurity training for businesses and individuals who take security seriously.</p>
+    </div>
+    <div class="cd-footer-col">
+      <h4>For Organizations</h4>
+      <a href="#pilot">30-Day Pilot Program</a>
+      <a href="#tools">Free Assessment Tools</a>
+      <a href="https://calendly.com/thecyberdoctrine/30min">Book a Call</a>
+      <a href="https://thecyberdoctrine.mykajabi.com/joinus">Enroll Now</a>
+    </div>
+    <div class="cd-footer-col">
+      <h4>For Individuals</h4>
+      <a href="#tools">Free Tools</a>
+      <a href="#tools">Risk Assessment</a>
+      <a href="#tools">Career Roadmap</a>
+    </div>
+    <div class="cd-footer-col">
+      <h4>Free Tools</h4>
+      <a href="#" onclick="openTool('tool-risk')">Risk Assessment</a>
+      <a href="#" onclick="openTool('tool-benchmark')">Benchmarking Quiz</a>
+      <a href="#" onclick="openTool('tool-roi')">ROI Calculator</a>
+      <a href="#" onclick="openTool('tool-simulation')">Attack Simulation</a>
+    </div>
+  </div>
+  <div class="cd-footer-bottom">
+    <span>© 2026 Cyber Doctrine. All Rights Reserved.</span>
+    <span>cyberdoctrine.com</span>
+  </div>
+</footer>
+
+</div><!-- end .cd-wrapper -->
+
+<script>
+// Tab switcher in hero
+function switchTab(btn, tab) {
+  document.querySelectorAll('.cd-tab').forEach(t => t.classList.remove('active'));
+  btn.classList.add('active');
+  document.getElementById('tab-b2b').style.display = tab === 'b2b' ? 'block' : 'none';
+  document.getElementById('tab-b2c').style.display = tab === 'b2c' ? 'block' : 'none';
+}
+
+// Pricing tier selector
+function selectTier(el, url) {
+  document.querySelectorAll('.cd-price-tier').forEach(t => t.classList.remove('selected'));
+  el.classList.add('selected');
+  document.getElementById('cd-checkout-btn').href = url;
+}
+
+// Tool modal system
+var toolTemplates = {
+
+  'tool-risk': `
+    <div class="cd-tool-widget">
+      <div class="cd-tool-badge">✦ Free Tool</div>
+      <h2>🎯 Personalized Mini Risk Assessment</h2>
+      <p class="cd-tool-desc">Answer 10 questions to get your custom cybersecurity risk score and prioritized action steps.</p>
+      <div id="risk-form">
+        <div class="cd-progress">
+          <div class="cd-progress-step active" id="rp1"></div>
+          <div class="cd-progress-step" id="rp2"></div>
+          <div class="cd-progress-step" id="rp3"></div>
+          <div class="cd-progress-step" id="rp4"></div>
+          <div class="cd-progress-step" id="rp5"></div>
+        </div>
+        <div id="risk-steps">
+          <div class="cd-step active" data-step="1">
+            <div class="cd-step-header">Question 1 of 10 — People & Awareness</div>
+            <div class="cd-form-group"><label class="cd-form-label">How many employees does your organization have?</label>
+              <select class="cd-form-select" id="r1"><option value="">Select...</option><option value="1">1–10</option><option value="2">11–50</option><option value="3">51–200</option><option value="4">200+</option></select></div>
+            <div class="cd-form-group"><label class="cd-form-label">Have your employees received cybersecurity training in the last 12 months?</label>
+              <div class="cd-radio-group">
+                <label class="cd-radio-option"><input type="radio" name="r2" value="0"> Yes, formal training</label>
+                <label class="cd-radio-option"><input type="radio" name="r2" value="2"> Informal only (occasional emails)</label>
+                <label class="cd-radio-option"><input type="radio" name="r2" value="4"> No training at all</label>
+              </div></div>
+            <button class="cd-btn-tool" onclick="riskNext(2)">Next →</button>
+          </div>
+          <div class="cd-step" data-step="2">
+            <div class="cd-step-header">Questions 3–5 — Technology & Access</div>
+            <div class="cd-form-group"><label class="cd-form-label">Do you enforce Multi-Factor Authentication (MFA) for all accounts?</label>
+              <div class="cd-radio-group">
+                <label class="cd-radio-option"><input type="radio" name="r3" value="0"> Yes, all accounts</label>
+                <label class="cd-radio-option"><input type="radio" name="r3" value="2"> Some accounts only</label>
+                <label class="cd-radio-option"><input type="radio" name="r3" value="5"> No MFA in place</label>
+              </div></div>
+            <div class="cd-form-group"><label class="cd-form-label">How often do employees use personal devices for work?</label>
+              <div class="cd-radio-group">
+                <label class="cd-radio-option"><input type="radio" name="r4" value="0"> Never — company devices only</label>
+                <label class="cd-radio-option"><input type="radio" name="r4" value="2"> Occasionally</label>
+                <label class="cd-radio-option"><input type="radio" name="r4" value="4"> Regularly / no policy</label>
+              </div></div>
+            <div class="cd-form-group"><label class="cd-form-label">Do you have a formal password policy?</label>
+              <div class="cd-radio-group">
+                <label class="cd-radio-option"><input type="radio" name="r5" value="0"> Yes, enforced with a password manager</label>
+                <label class="cd-radio-option"><input type="radio" name="r5" value="2"> Policy exists but not enforced</label>
+                <label class="cd-radio-option"><input type="radio" name="r5" value="5"> No policy</label>
+              </div></div>
+            <div style="display:flex;gap:10px;">
+              <button class="cd-btn-tool" style="background:var(--gray-400);" onclick="riskNext(1)">← Back</button>
+              <button class="cd-btn-tool" onclick="riskNext(3)">Next →</button>
+            </div>
+          </div>
+          <div class="cd-step" data-step="3">
+            <div class="cd-step-header">Questions 6–8 — Incident & Response</div>
+            <div class="cd-form-group"><label class="cd-form-label">Has your organization experienced a security incident in the last 2 years?</label>
+              <div class="cd-radio-group">
+                <label class="cd-radio-option"><input type="radio" name="r6" value="3"> Yes</label>
+                <label class="cd-radio-option"><input type="radio" name="r6" value="0"> No</label>
+                <label class="cd-radio-option"><input type="radio" name="r6" value="2"> Unsure / not tracked</label>
+              </div></div>
+            <div class="cd-form-group"><label class="cd-form-label">Do you have a written incident response plan?</label>
+              <div class="cd-radio-group">
+                <label class="cd-radio-option"><input type="radio" name="r7" value="0"> Yes, tested regularly</label>
+                <label class="cd-radio-option"><input type="radio" name="r7" value="2"> Yes, but never tested</label>
+                <label class="cd-radio-option"><input type="radio" name="r7" value="5"> No plan exists</label>
+              </div></div>
+            <div class="cd-form-group"><label class="cd-form-label">How frequently are software and systems patched/updated?</label>
+              <div class="cd-radio-group">
+                <label class="cd-radio-option"><input type="radio" name="r8" value="0"> Automatically / within 48 hours</label>
+                <label class="cd-radio-option"><input type="radio" name="r8" value="2"> Monthly</label>
+                <label class="cd-radio-option"><input type="radio" name="r8" value="5"> Rarely or when we remember</label>
+              </div></div>
+            <div style="display:flex;gap:10px;">
+              <button class="cd-btn-tool" style="background:var(--gray-400);" onclick="riskNext(2)">← Back</button>
+              <button class="cd-btn-tool" onclick="riskNext(4)">Next →</button>
+            </div>
+          </div>
+          <div class="cd-step" data-step="4">
+            <div class="cd-step-header">Questions 9–10 — Data & Compliance</div>
+            <div class="cd-form-group"><label class="cd-form-label">What type of sensitive data does your organization handle?</label>
+              <div class="cd-radio-group">
+                <label class="cd-radio-option"><input type="radio" name="r9" value="5"> Health records (HIPAA)</label>
+                <label class="cd-radio-option"><input type="radio" name="r9" value="4"> Financial / payment data (PCI)</label>
+                <label class="cd-radio-option"><input type="radio" name="r9" value="3"> Customer PII</label>
+                <label class="cd-radio-option"><input type="radio" name="r9" value="1"> Minimal sensitive data</label>
+              </div></div>
+            <div class="cd-form-group"><label class="cd-form-label">Do employees receive phishing simulation exercises?</label>
+              <div class="cd-radio-group">
+                <label class="cd-radio-option"><input type="radio" name="r10" value="0"> Yes, regularly</label>
+                <label class="cd-radio-option"><input type="radio" name="r10" value="3"> Occasionally</label>
+                <label class="cd-radio-option"><input type="radio" name="r10" value="6"> Never</label>
+              </div></div>
+            <div style="display:flex;gap:10px;">
+              <button class="cd-btn-tool" style="background:var(--gray-400);" onclick="riskNext(3)">← Back</button>
+              <button class="cd-btn-tool" onclick="calcRisk()">Get My Risk Score →</button>
+            </div>
+          </div>
+        </div>
+        <div id="risk-result" style="display:none;"></div>
+      </div>
+    </div>`,
+
+  'tool-benchmark': `
+    <div class="cd-tool-widget">
+      <div class="cd-tool-badge">✦ Free Tool</div>
+      <h2>📊 Cybersecurity Benchmarking Quiz</h2>
+      <p class="cd-tool-desc">See how your security practices compare to industry standards. Receive a benchmark score against peer organizations.</p>
+      <div id="bench-form">
+        <div class="cd-form-group"><label class="cd-form-label">Your industry sector:</label>
+          <select class="cd-form-select" id="b-industry">
+            <option value="">Select your industry...</option>
+            <option>Healthcare</option><option>Finance / Banking</option><option>Technology</option>
+            <option>Retail / E-commerce</option><option>Education</option><option>Professional Services</option>
+            <option>Manufacturing</option><option>Non-profit</option><option>Other</option>
+          </select></div>
+        <div class="cd-form-group"><label class="cd-form-label">Organization size:</label>
+          <select class="cd-form-select" id="b-size">
+            <option value="">Select size...</option>
+            <option value="small">1–50 employees</option><option value="mid">51–200 employees</option>
+            <option value="large">201–1000 employees</option><option value="enterprise">1000+ employees</option>
+          </select></div>
+        <p style="font-size:14px;font-weight:600;color:var(--text);margin:20px 0 12px;">Rate your current practices (1 = Not in place, 5 = Fully implemented):</p>
+        ${['Security awareness training program','Multi-factor authentication enforcement','Regular vulnerability assessments','Incident response plan','Data backup & recovery procedures','Email security controls (SPF/DKIM/DMARC)','Endpoint protection on all devices','Third-party vendor risk assessments'].map((item,i)=>`
+        <div class="cd-form-group" style="background:var(--gray-50);padding:14px;border-radius:8px;">
+          <label class="cd-form-label" style="margin-bottom:10px;">${item}</label>
+          <input type="range" class="cd-range" id="bq${i}" min="1" max="5" value="2" oninput="document.getElementById('bv${i}').textContent=this.value">
+          <div class="cd-range-labels"><span>Not in place</span><span id="bv${i}" style="font-weight:700;color:var(--blue);">2</span><span>Fully implemented</span></div>
+        </div>`).join('')}
+        <button class="cd-btn-tool" onclick="calcBenchmark()" style="margin-top:12px;">Get Benchmark Score →</button>
+        <div id="bench-result"></div>
+      </div>
+    </div>`,
+
+  'tool-compliance': `
+    <div class="cd-tool-widget">
+      <div class="cd-tool-badge">✦ Free Tool</div>
+      <h2>✅ Compliance Gap Checklist</h2>
+      <p class="cd-tool-desc">Identify gaps in your compliance posture across major frameworks. Check off what you have in place and see what's missing.</p>
+      <div class="cd-form-group">
+        <label class="cd-form-label">Select a compliance framework:</label>
+        <select class="cd-form-select" id="comp-framework" onchange="loadCompliance(this.value)">
+          <option value="">Choose framework...</option>
+          <option value="nist">NIST Cybersecurity Framework</option>
+          <option value="soc2">SOC 2 Type II</option>
+          <option value="hipaa">HIPAA Security Rule</option>
+          <option value="pci">PCI DSS</option>
+        </select>
+      </div>
+      <div id="comp-checklist"></div>
+      <div id="comp-result"></div>
+    </div>`,
+
+  'tool-roi': `
+    <div class="cd-tool-widget">
+      <div class="cd-tool-badge">✦ Free Tool</div>
+      <h2>💰 Cybersecurity Training ROI Calculator</h2>
+      <p class="cd-tool-desc">Calculate your potential return on investment from employee cybersecurity training based on your specific business profile.</p>
+      <div class="cd-form-group"><label class="cd-form-label">Number of employees:</label>
+        <input type="number" class="cd-form-input" id="roi-emp" value="25" min="1"></div>
+      <div class="cd-form-group"><label class="cd-form-label">Average employee annual salary ($):</label>
+        <input type="number" class="cd-form-input" id="roi-sal" value="65000" min="1"></div>
+      <div class="cd-form-group"><label class="cd-form-label">Industry (affects breach probability):</label>
+        <select class="cd-form-select" id="roi-ind">
+          <option value="1.8">Healthcare (High risk)</option>
+          <option value="1.6">Finance / Banking (High risk)</option>
+          <option value="1.4" selected>Technology (Medium-high)</option>
+          <option value="1.2">Professional Services (Medium)</option>
+          <option value="1.0">Other (Baseline)</option>
+        </select></div>
+      <div class="cd-form-group">
+        <label class="cd-form-label">Current phishing click rate estimate:</label>
+        <input type="range" class="cd-range" id="roi-click" min="5" max="40" value="20" oninput="document.getElementById('roi-click-val').textContent=this.value+'%'">
+        <div class="cd-range-labels"><span>5% (Trained)</span><span id="roi-click-val" style="font-weight:700;color:var(--blue);">20%</span><span>40% (Untrained)</span></div>
+      </div>
+      <button class="cd-btn-tool" onclick="calcROI()">Calculate My ROI →</button>
+      <div id="roi-result"></div>
+    </div>`,
+
+  'tool-roadmap': `
+    <div class="cd-tool-widget">
+      <div class="cd-tool-badge">✦ Free Tool</div>
+      <h2>🗺️ Security Maturity Roadmap</h2>
+      <p class="cd-tool-desc">Answer a few questions to receive a personalized 90-day security maturity roadmap tailored to your organization.</p>
+      <div id="roadmap-form">
+        <div class="cd-form-group"><label class="cd-form-label">What is your current security maturity level?</label>
+          <div class="cd-radio-group">
+            <label class="cd-radio-option"><input type="radio" name="rm1" value="1"> Level 1 — No formal program, ad hoc only</label>
+            <label class="cd-radio-option"><input type="radio" name="rm1" value="2"> Level 2 — Some policies, limited enforcement</label>
+            <label class="cd-radio-option"><input type="radio" name="rm1" value="3"> Level 3 — Defined program, inconsistently applied</label>
+            <label class="cd-radio-option"><input type="radio" name="rm1" value="4"> Level 4 — Managed, measured, and improving</label>
+          </div></div>
+        <div class="cd-form-group"><label class="cd-form-label">What is your top security priority?</label>
+          <div class="cd-radio-group">
+            <label class="cd-radio-option"><input type="radio" name="rm2" value="people"> Reducing human error & phishing risk</label>
+            <label class="cd-radio-option"><input type="radio" name="rm2" value="tech"> Improving technical controls & tools</label>
+            <label class="cd-radio-option"><input type="radio" name="rm2" value="compliance"> Achieving compliance (NIST/SOC2/HIPAA)</label>
+            <label class="cd-radio-option"><input type="radio" name="rm2" value="incident"> Building incident response capability</label>
+          </div></div>
+        <div class="cd-form-group"><label class="cd-form-label">What's your biggest constraint?</label>
+          <div class="cd-radio-group">
+            <label class="cd-radio-option"><input type="radio" name="rm3" value="budget"> Budget</label>
+            <label class="cd-radio-option"><input type="radio" name="rm3" value="time"> Time / bandwidth</label>
+            <label class="cd-radio-option"><input type="radio" name="rm3" value="expertise"> Expertise / skills gap</label>
+            <label class="cd-radio-option"><input type="radio" name="rm3" value="buyin"> Leadership buy-in</label>
+          </div></div>
+        <button class="cd-btn-tool" onclick="genRoadmap()">Generate My Roadmap →</button>
+        <div id="roadmap-result"></div>
+      </div>
+    </div>`,
+
+  'tool-simulation': `
+    <div class="cd-tool-widget">
+      <div class="cd-tool-badge">✦ Free Tool</div>
+      <h2>⚡ Mock Cyberattack Simulation</h2>
+      <p class="cd-tool-desc">Experience a simulated cyberattack scenario. Walk through a real attack chain and see where your defenses hold — and where they fail.</p>
+      <div id="sim-setup">
+        <div class="cd-form-group"><label class="cd-form-label">Select attack scenario:</label>
+          <select class="cd-form-select" id="sim-type">
+            <option value="phishing">Spear Phishing Attack (Most Common)</option>
+            <option value="ransomware">Ransomware via Email Attachment</option>
+            <option value="bec">Business Email Compromise (BEC)</option>
+            <option value="insider">Insider Threat / Credential Misuse</option>
+          </select></div>
+        <div class="cd-form-group"><label class="cd-form-label">Your current defenses (select all that apply):</label>
+          <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px;">
+            <label class="cd-radio-option"><input type="checkbox" id="def-mfa"> MFA Enabled</label>
+            <label class="cd-radio-option"><input type="checkbox" id="def-training"> Security Training</label>
+            <label class="cd-radio-option"><input type="checkbox" id="def-filter"> Email Filtering</label>
+            <label class="cd-radio-option"><input type="checkbox" id="def-edr"> Endpoint Protection</label>
+            <label class="cd-radio-option"><input type="checkbox" id="def-backup"> Data Backups</label>
+            <label class="cd-radio-option"><input type="checkbox" id="def-irp"> Incident Response Plan</label>
+          </div></div>
+        <button class="cd-btn-tool" onclick="runSimulation()">▶ Run Simulation</button>
+      </div>
+      <div id="sim-result" style="display:none;"></div>
+    </div>`,
+
+  'tool-diagnostic': `
+    <div class="cd-tool-widget">
+      <div class="cd-tool-badge">✦ Free Tool</div>
+      <h2>🔍 Cybersecurity Diagnostic Checklist</h2>
+      <p class="cd-tool-desc">A comprehensive 30-point diagnostic across People, Process, and Technology. Check off what you have in place to reveal your biggest blind spots.</p>
+      <div id="diag-container">
+        ${buildDiagnostic()}
+        <button class="cd-btn-tool" onclick="calcDiagnostic()" style="margin-top:20px;">Analyze My Security Posture →</button>
+        <div id="diag-result"></div>
+      </div>
+    </div>`
+};
+
+function buildDiagnostic() {
+  var cats = {
+    '👥 People & Awareness': [
+      {id:'d1', text:'Security awareness training is conducted at least annually', risk:'high'},
+      {id:'d2', text:'New employees receive security onboarding training', risk:'high'},
+      {id:'d3', text:'Phishing simulations are run at least quarterly', risk:'high'},
+      {id:'d4', text:'Employees know how to report a suspicious email or incident', risk:'medium'},
+      {id:'d5', text:'There is a designated security point of contact', risk:'medium'},
+      {id:'d6', text:'Remote work security policies are documented and shared', risk:'medium'},
+      {id:'d7', text:'Executive leadership has received targeted security briefings', risk:'low'},
+      {id:'d8', text:'Social engineering awareness is part of training', risk:'high'},
+      {id:'d9', text:'Employees use a password manager', risk:'medium'},
+      {id:'d10', text:'A security culture survey has been conducted in the last year', risk:'low'}
+    ],
+    '⚙️ Process & Policy': [
+      {id:'d11', text:'An acceptable use policy (AUP) exists and is signed by all employees', risk:'medium'},
+      {id:'d12', text:'An incident response plan is documented and tested', risk:'high'},
+      {id:'d13', text:'Access is granted on a least-privilege basis', risk:'high'},
+      {id:'d14', text:'Offboarding includes immediate account deactivation', risk:'high'},
+      {id:'d15', text:'Vendor / third-party risk assessments are conducted', risk:'medium'},
+      {id:'d16', text:'Data classification policy exists', risk:'medium'},
+      {id:'d17', text:'A business continuity / disaster recovery plan exists', risk:'high'},
+      {id:'d18', text:'Regular security audits or penetration tests are conducted', risk:'medium'},
+      {id:'d19', text:'Change management procedures are followed for system changes', risk:'low'},
+      {id:'d20', text:'Privacy policy and data handling procedures are documented', risk:'medium'}
+    ],
+    '💻 Technology & Controls': [
+      {id:'d21', text:'MFA is enforced on all critical systems and email', risk:'high'},
+      {id:'d22', text:'Endpoint protection (AV/EDR) is installed on all devices', risk:'high'},
+      {id:'d23', text:'Systems are patched within 30 days of release', risk:'high'},
+      {id:'d24', text:'Email filtering / anti-phishing controls are active (SPF, DKIM, DMARC)', risk:'high'},
+      {id:'d25', text:'Data is backed up regularly and backups are tested', risk:'high'},
+      {id:'d26', text:'Network segmentation separates critical systems', risk:'medium'},
+      {id:'d27', text:'Firewall and intrusion detection systems are in place', risk:'medium'},
+      {id:'d28', text:'Encrypted storage is used for sensitive data', risk:'medium'},
+      {id:'d29', text:'Remote access is secured via VPN or zero-trust architecture', risk:'medium'},
+      {id:'d30', text:'Security event logging and monitoring is active', risk:'medium'}
+    ]
+  };
+  var html = '';
+  Object.entries(cats).forEach(([cat, items]) => {
+    html += `<h3 style="font-size:16px;font-weight:700;color:var(--text);margin:24px 0 12px;padding-bottom:8px;border-bottom:2px solid var(--gray-200);">${cat}</h3>`;
+    html += '<ul class="cd-checklist">';
+    items.forEach(item => {
+      html += `<li>
+        <div class="cd-checklist-check" id="ch-${item.id}" onclick="toggleCheck('${item.id}')"></div>
+        <div class="cd-checklist-text">
+          <strong>${item.text}</strong>
+          <span class="cd-risk-${item.risk === 'high' ? 'high' : item.risk === 'medium' ? 'medium' : 'low'}" style="margin-left:6px;">${item.risk} impact</span>
+        </div>
+      </li>`;
+    });
+    html += '</ul>';
+  });
+  return html;
+}
+
+function toggleCheck(id) {
+  var el = document.getElementById('ch-' + id);
+  el.classList.toggle('checked');
+  if (el.classList.contains('checked')) {
+    el.innerHTML = '<svg width="10" height="10" viewBox="0 0 10 10" fill="none"><path d="M2 5l2.5 2.5L8 3" stroke="white" stroke-width="1.5" stroke-linecap="round"/></svg>';
+  } else { el.innerHTML = ''; }
+}
+
+// TOOL LOGIC
+function riskNext(step) {
+  document.querySelectorAll('[data-step]').forEach(s => s.classList.remove('active'));
+  var target = document.querySelector('[data-step="'+step+'"]');
+  if (target) target.classList.add('active');
+  for (var i = 1; i <= 5; i++) {
+    var p = document.getElementById('rp'+i);
+    if (p) p.className = 'cd-progress-step' + (i < step ? ' done' : i === step ? ' active' : '');
+  }
+}
+
+function calcRisk() {
+  var score = 0;
+  ['r2','r3','r4','r5','r6','r7','r8','r9','r10'].forEach(function(name) {
+    var el = document.querySelector('input[name="'+name+'"]:checked');
+    if (el) score += parseInt(el.value);
+  });
+  var level, color, title, desc, recs;
+  if (score <= 8) {
+    level='LOW RISK'; color='#15803d'; title='Strong Foundation';
+    desc='Your organization has solid security practices in place. Continue to build on this foundation.';
+    recs=['Consider advanced phishing simulations to test your team', 'Document and formalize existing policies', 'Explore compliance framework alignment'];
+  } else if (score <= 18) {
+    level='MODERATE RISK'; color='#d97706'; title='Room to Improve';
+    desc='You have some controls in place but meaningful gaps remain that attackers can exploit.';
+    recs=['Implement MFA across all critical systems immediately', 'Launch a formal security awareness training program', 'Run your first phishing simulation this quarter'];
+  } else if (score <= 28) {
+    level='HIGH RISK'; color='#dc2626'; title='Action Required';
+    desc='Significant gaps exist. Your employees and data are at considerable risk right now.';
+    recs=['Employee security awareness training is your #1 priority', 'Enforce MFA within 30 days', 'Develop an incident response plan', 'Consider the Cyber Doctrine 30-Day Pilot'];
+  } else {
+    level='CRITICAL RISK'; color='#7c3aed'; title='Immediate Action Needed';
+    desc='Your organization is highly vulnerable. A breach is a matter of when, not if, without immediate action.';
+    recs=['Start the Cyber Doctrine Pilot Program this week', 'Emergency: Enable MFA on all accounts today', 'Implement email filtering immediately', 'Develop an incident response plan'];
+  }
+  var pct = Math.round((1 - score/36) * 100);
+  document.getElementById('risk-steps').style.display = 'none';
+  document.getElementById('risk-result').innerHTML = `
+    <div class="cd-result-box">
+      <h3>Your Risk Score</h3>
+      <div class="cd-result-score" style="color:${color};">${pct}<span style="font-size:28px;">/100</span></div>
+      <div style="display:inline-block;background:${color}20;color:${color};padding:4px 14px;border-radius:100px;font-size:12px;font-weight:700;letter-spacing:0.08em;margin-bottom:12px;">${level}</div>
+      <div class="cd-result-meter"><div class="cd-result-meter-fill" style="width:${pct}%;"></div></div>
+      <p><strong>${title}:</strong> ${desc}</p>
+      <p style="font-weight:600;margin-top:14px;margin-bottom:8px;">Top Recommendations:</p>
+      <ul class="cd-result-list">${recs.map(r=>`<li><span class="cd-stat-dot" style="background:${color};flex-shrink:0;"></span>${r}</li>`).join('')}</ul>
+    </div>
+    ${funnelBox()}`;
+  document.getElementById('risk-result').style.display = 'block';
+}
+
+function calcBenchmark() {
+  var ind = document.getElementById('b-industry').value;
+  var size = document.getElementById('b-size').value;
+  if (!ind || !size) { alert('Please complete all fields.'); return; }
+  var total = 0;
+  for (var i = 0; i < 8; i++) total += parseInt(document.getElementById('bq'+i).value);
+  var avg = (total / 8).toFixed(1);
+  var pct = Math.round((total / 40) * 100);
+  var industryAvg = { Healthcare: 58, Finance: 65, Technology: 61, Retail: 49, Education: 45, Professional: 54 };
+  var peer = industryAvg[ind] || 52;
+  var diff = pct - peer;
+  var diffText = diff >= 0 ? `<span style="color:#15803d;">+${diff}% above average</span>` : `<span style="color:#dc2626;">${diff}% below average</span>`;
+  document.getElementById('bench-result').innerHTML = `
+    <div class="cd-result-box" style="margin-top:24px;">
+      <h3>Your Benchmark Score</h3>
+      <div class="cd-result-score">${pct}<span style="font-size:28px;">/100</span></div>
+      <div class="cd-result-meter"><div class="cd-result-meter-fill" style="width:${pct}%;"></div></div>
+      <p><strong>Your Score:</strong> ${pct}% &nbsp;|&nbsp; <strong>${ind} Industry Average:</strong> ${peer}% &nbsp;|&nbsp; ${diffText}</p>
+      <p style="margin-top:12px;">Your average practice rating is <strong>${avg}/5</strong>. ${pct < peer ? 'You are below your industry peers — targeted training and controls could close this gap quickly.' : 'You are performing above your peers — focus on maintaining and formalizing your practices.'}</p>
+    </div>
+    ${funnelBox()}`;
+}
+
+var complianceData = {
+  nist: {name:'NIST Cybersecurity Framework', items:[
+    'Identify: Asset inventory of all hardware and software','Identify: Risk assessment conducted and documented',
+    'Protect: Access controls and identity management in place','Protect: Employee awareness training program active',
+    'Protect: Data security controls implemented','Detect: Anomalies and events monitoring active',
+    'Detect: Security continuous monitoring implemented','Respond: Incident response plan documented',
+    'Respond: Incident response team identified and trained','Recover: Recovery planning and processes in place'
+  ]},
+  soc2: {name:'SOC 2 Type II', items:[
+    'CC1: Control environment policies documented','CC2: Communication and information controls',
+    'CC3: Risk assessment process formalized','CC4: Monitoring controls active',
+    'CC5: Control activities over technology','CC6: Logical and physical access controls',
+    'CC7: System operations monitoring','CC8: Change management procedures',
+    'CC9: Risk mitigation via vendors managed','A1: Availability SLAs defined and monitored'
+  ]},
+  hipaa: {name:'HIPAA Security Rule', items:[
+    'Risk analysis conducted and documented','Risk management plan implemented',
+    'Sanction policy for workforce violations exists','Workforce training on HIPAA conducted',
+    'Access controls for ePHI implemented','Audit controls / activity logs active',
+    'Integrity controls to protect ePHI','Transmission security (encryption) in place',
+    'Business Associate Agreements (BAAs) in place','Contingency plan for ePHI access during emergency'
+  ]},
+  pci: {name:'PCI DSS', items:[
+    'Firewall configuration protects cardholder data','Vendor defaults changed (passwords, settings)',
+    'Stored cardholder data is protected','Cardholder data transmission is encrypted',
+    'Anti-malware software is active and updated','Secure systems and applications maintained',
+    'Access restricted to need-to-know basis','Unique IDs assigned to all users with access',
+    'Physical access to cardholder data restricted','All access to cardholder data logged and monitored'
+  ]}
+};
+
+function loadCompliance(fw) {
+  if (!fw) return;
+  var data = complianceData[fw];
+  var html = `<p style="font-size:13px;color:var(--text-muted);margin-bottom:16px;">Check each control that is currently in place at your organization:</p>
+    <ul class="cd-checklist">`;
+  data.items.forEach((item,i) => {
+    html += `<li>
+      <div class="cd-checklist-check" id="cc-${i}" onclick="toggleCheck2(${i})"></div>
+      <div class="cd-checklist-text">${item}</div>
+    </li>`;
+  });
+  html += `</ul><button class="cd-btn-tool" onclick="calcCompliance('${fw}')" style="margin-top:16px;">Analyze My Compliance Gaps →</button>`;
+  document.getElementById('comp-checklist').innerHTML = html;
+  document.getElementById('comp-result').innerHTML = '';
+}
+
+function toggleCheck2(i) {
+  var el = document.getElementById('cc-'+i);
+  el.classList.toggle('checked');
+  el.innerHTML = el.classList.contains('checked') ? '<svg width="10" height="10" viewBox="0 0 10 10" fill="none"><path d="M2 5l2.5 2.5L8 3" stroke="white" stroke-width="1.5" stroke-linecap="round"/></svg>' : '';
+}
+
+function calcCompliance(fw) {
+  var data = complianceData[fw];
+  var checked = 0;
+  for (var i = 0; i < data.items.length; i++) {
+    if (document.getElementById('cc-'+i) && document.getElementById('cc-'+i).classList.contains('checked')) checked++;
+  }
+  var pct = Math.round((checked / data.items.length) * 100);
+  var gaps = data.items.length - checked;
+  document.getElementById('comp-result').innerHTML = `
+    <div class="cd-result-box" style="margin-top:20px;">
+      <h3>${data.name} Gap Analysis</h3>
+      <div class="cd-result-score">${pct}<span style="font-size:28px;">%</span></div>
+      <div class="cd-result-meter"><div class="cd-result-meter-fill" style="width:${pct}%;"></div></div>
+      <p><strong>${checked}/${data.items.length} controls</strong> in place. You have <strong>${gaps} gap${gaps!==1?'s':''}</strong> to address.</p>
+      <p style="margin-top:10px;">${pct >= 80 ? 'Strong compliance posture. Focus on the remaining gaps to achieve full readiness.' : pct >= 50 ? 'Moderate compliance. Significant gaps remain that could expose you to regulatory risk.' : 'Significant compliance gaps identified. Immediate action is recommended before an audit or breach.'}</p>
+    </div>
+    ${funnelBox()}`;
+}
+
+function calcROI() {
+  var emp = parseInt(document.getElementById('roi-emp').value) || 25;
+  var sal = parseInt(document.getElementById('roi-sal').value) || 65000;
+  var ind = parseFloat(document.getElementById('roi-ind').value);
+  var clickRate = parseInt(document.getElementById('roi-click').value) / 100;
+  var avgBreachCost = 4450000 * ind;
+  var breachProb = clickRate * 0.3;
+  var annualRisk = avgBreachCost * breachProb;
+  var downtimeHours = emp * 8 * 2;
+  var downtimeCost = (sal / 2080) * downtimeHours;
+  var totalExposure = annualRisk + downtimeCost;
+  var trainingCost = emp <= 15 ? 1500 : emp <= 50 ? 3500 : 5000;
+  var reducedRisk = totalExposure * 0.70;
+  var roi = Math.round(((reducedRisk - trainingCost) / trainingCost) * 100);
+  var fmt = n => '$' + Math.round(n).toLocaleString();
+  document.getElementById('roi-result').innerHTML = `
+    <div class="cd-result-box" style="margin-top:24px;">
+      <h3>Your ROI Analysis</h3>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:14px;margin:16px 0;">
+        <div style="background:white;border-radius:10px;padding:16px;text-align:center;">
+          <div style="font-size:11px;text-transform:uppercase;letter-spacing:0.1em;color:var(--text-muted);margin-bottom:4px;">Annual Risk Exposure</div>
+          <div style="font-family:var(--font-display);font-size:28px;color:#dc2626;">${fmt(totalExposure)}</div>
+        </div>
+        <div style="background:white;border-radius:10px;padding:16px;text-align:center;">
+          <div style="font-size:11px;text-transform:uppercase;letter-spacing:0.1em;color:var(--text-muted);margin-bottom:4px;">Risk Reduction (70%)</div>
+          <div style="font-family:var(--font-display);font-size:28px;color:#15803d;">${fmt(reducedRisk)}</div>
+        </div>
+        <div style="background:white;border-radius:10px;padding:16px;text-align:center;">
+          <div style="font-size:11px;text-transform:uppercase;letter-spacing:0.1em;color:var(--text-muted);margin-bottom:4px;">Training Investment</div>
+          <div style="font-family:var(--font-display);font-size:28px;color:var(--blue);">${fmt(trainingCost)}</div>
+        </div>
+        <div style="background:white;border-radius:10px;padding:16px;text-align:center;">
+          <div style="font-size:11px;text-transform:uppercase;letter-spacing:0.1em;color:var(--text-muted);margin-bottom:4px;">Projected ROI</div>
+          <div style="font-family:var(--font-display);font-size:28px;color:#15803d;">${roi}%</div>
+        </div>
+      </div>
+      <p style="font-size:13px;">Based on ${emp} employees, a ${Math.round(clickRate*100)}% phishing click rate, and industry breach cost data. A 70% risk reduction is the average result of a structured training program.</p>
+    </div>
+    ${funnelBox()}`;
+}
+
+function genRoadmap() {
+  var level = document.querySelector('input[name="rm1"]:checked');
+  var priority = document.querySelector('input[name="rm2"]:checked');
+  var constraint = document.querySelector('input[name="rm3"]:checked');
+  if (!level || !priority || !constraint) { alert('Please answer all questions.'); return; }
+
+  var phases = {
+    people: [
+      {phase:'Days 1–10', title:'Launch Security Awareness Training', desc:'Enroll all employees in a structured cybersecurity training program. Cover phishing, password hygiene, and social engineering basics.', status:'active'},
+      {phase:'Days 11–20', title:'Run Your First Phishing Simulation', desc:'Send a simulated phishing email to all employees. Track click rates and use results to identify your highest-risk individuals.', status:''},
+      {phase:'Days 21–30', title:'Review Results & Personalize', desc:'Review simulation results. Enroll high-risk employees in targeted micro-training. Celebrate and recognize low-risk performers.', status:''},
+      {phase:'Days 31–60', title:'Build a Security Culture Calendar', desc:'Schedule quarterly phishing simulations, monthly security tips, and annual training refreshers. Make security a habit, not an event.', status:''},
+      {phase:'Days 61–90', title:'Measure & Report Progress', desc:'Produce a before/after report showing click rate reduction, training completion, and risk score improvement. Present to leadership.', status:''}
+    ],
+    tech: [
+      {phase:'Days 1–10', title:'Enforce MFA Everywhere', desc:'Enable multi-factor authentication on all email, cloud, and business-critical applications. This alone blocks 99% of automated attacks.', status:'active'},
+      {phase:'Days 11–20', title:'Audit & Patch All Systems', desc:'Inventory all software and devices. Apply all outstanding security patches. Remove unsupported or end-of-life software.', status:''},
+      {phase:'Days 21–30', title:'Deploy Email Security Controls', desc:'Implement SPF, DKIM, and DMARC records. Enable advanced email filtering to block phishing and malware before it reaches employees.', status:''},
+      {phase:'Days 31–60', title:'Endpoint Protection Rollout', desc:'Ensure every device used for work has active, updated endpoint protection (EDR/AV). Create a device management policy for BYOD.', status:''},
+      {phase:'Days 61–90', title:'Implement Logging & Monitoring', desc:'Enable security event logging across critical systems. Set up alerts for suspicious activity. Review logs weekly until monitoring is automated.', status:''}
+    ],
+    compliance: [
+      {phase:'Days 1–10', title:'Conduct a Formal Risk Assessment', desc:'Document all business assets, identify threats, and assess likelihood and impact. This is required by virtually every compliance framework.', status:'active'},
+      {phase:'Days 11–20', title:'Gap Analysis Against Target Framework', desc:'Map your current controls against NIST/SOC2/HIPAA requirements. Use the Cyber Doctrine Compliance Gap Checklist to get started immediately.', status:''},
+      {phase:'Days 21–30', title:'Document Policies & Procedures', desc:'Create or formalize your acceptable use policy, incident response plan, and data classification policy. Frameworks require documented evidence.', status:''},
+      {phase:'Days 31–60', title:'Implement Priority Controls', desc:'Address the highest-severity gaps first: MFA, access controls, encryption, and employee training. Each control closes multiple framework requirements.', status:''},
+      {phase:'Days 61–90', title:'Prepare for Assessment or Audit', desc:'Gather evidence of all controls. Conduct an internal review. Engage a third-party auditor or assessor if required by your framework.', status:''}
+    ],
+    incident: [
+      {phase:'Days 1–10', title:'Draft Your Incident Response Plan', desc:'Define roles, communication chains, and escalation procedures. Identify your incident response team and establish a war room protocol.', status:'active'},
+      {phase:'Days 11–20', title:'Identify & Classify Your Critical Assets', desc:'Know what data you have, where it lives, and what would be most damaging if compromised. This drives your response prioritization.', status:''},
+      {phase:'Days 21–30', title:'Run a Tabletop Exercise', desc:'Simulate a breach scenario with your leadership team. Walk through the response step-by-step. Identify gaps in your plan before a real incident.', status:''},
+      {phase:'Days 31–60', title:'Implement Detection & Alerting', desc:'Enable logging and real-time alerting on critical systems. Define what constitutes an incident and who gets called at 2am.', status:''},
+      {phase:'Days 61–90', title:'Test Backups & Recovery Procedures', desc:'Verify that backups are working, restorable, and tested. Practice restoring from backup. Ransomware is only devastating when backups fail.', status:''}
+    ]
+  };
+
+  var selected = phases[priority.value] || phases.people;
+  var roadmapHtml = '<div class="cd-roadmap">' + selected.map((item, i) =>
+    `<div class="cd-roadmap-item${i===0?' active':''}">
+      <div class="cd-roadmap-content">
+        <div class="cd-roadmap-phase">${item.phase}</div>
+        <h4>${item.title}</h4>
+        <p>${item.desc}</p>
+      </div>
+    </div>`
+  ).join('') + '</div>';
+
+  document.getElementById('roadmap-result').innerHTML = `
+    <div class="cd-result-box" style="margin-top:24px;">
+      <h3>Your 90-Day Security Roadmap</h3>
+      <p style="margin-bottom:20px;">Personalized for your maturity level and top priority. Start with Phase 1 this week.</p>
+      ${roadmapHtml}
+    </div>
+    ${funnelBox()}`;
+}
+
+function runSimulation() {
+  var type = document.getElementById('sim-type').value;
+  var defenses = {
+    mfa: document.getElementById('def-mfa').checked,
+    training: document.getElementById('def-training').checked,
+    filter: document.getElementById('def-filter').checked,
+    edr: document.getElementById('def-edr').checked,
+    backup: document.getElementById('def-backup').checked,
+    irp: document.getElementById('def-irp').checked
+  };
+  var defCount = Object.values(defenses).filter(Boolean).length;
+
+  var scenarios = {
+    phishing: {
+      title: 'Spear Phishing Attack',
+      steps: [
+        {t:'t-dim', msg:'[+] Attacker profiles target organization on LinkedIn...'},
+        {t:'t-info', msg:'[*] Crafting personalized email impersonating the CEO...'},
+        {t:'t-warn', msg:'[!] Malicious email sent to 23 employees at 09:14 AM'},
+        {t:'', msg: defenses.filter ? '[BLOCKED] Email filtering caught 19/23 emails (SPF/DKIM check failed)' : '[DELIVERED] Email bypassed mail server — no filtering detected'},
+        {t:'', msg: defenses.training ? '[REPORTED] 3 trained employees flagged the email to IT' : '[CLICKED] 7 employees clicked the malicious link (30% click rate)'},
+        {t: defenses.mfa ? '' : 't-err', msg: defenses.mfa ? '[BLOCKED] MFA prevented credential theft even after 2 employees entered passwords' : '[COMPROMISED] Attacker captured 2 sets of credentials — accounts now controlled'},
+        {t: defCount >= 4 ? '' : 't-err', msg: defCount >= 4 ? '[CONTAINED] Incident detected and response team alerted within 4 hours' : '[UNDETECTED] Attacker now moves laterally through your network undetected...'}
+      ]
+    },
+    ransomware: {
+      title: 'Ransomware via Email Attachment',
+      steps: [
+        {t:'t-dim', msg:'[+] Attacker sends "Invoice_Q4_2026.exe" disguised as PDF...'},
+        {t:'t-warn', msg:'[!] 3 employees receive the email at 10:42 AM'},
+        {t:'', msg: defenses.filter ? '[BLOCKED] Attachment blocked by email security filter' : '[DELIVERED] Attachment passed through — no attachment scanning active'},
+        {t:'', msg: defenses.training ? '[REPORTED] 2 of 3 employees recognized the suspicious attachment' : '[OPENED] 1 employee opened the attachment at 11:05 AM'},
+        {t:'', msg: defenses.edr ? '[BLOCKED] Endpoint protection detected and quarantined the ransomware payload' : '[EXECUTING] Ransomware begins encrypting C:/Users/... C:/Documents/... C:/Finance/...'},
+        {t: defenses.backup ? '' : 't-err', msg: defenses.backup ? '[RECOVERED] Clean backup from 24 hours ago restored. Downtime: 4 hours.' : '[CRITICAL] No clean backup found. Attacker demands $85,000 in Bitcoin.'},
+        {t:'t-info', msg: defenses.irp ? '[RESPONSE] Incident response plan activated — team assembled within 30 min' : '[CHAOS] No incident response plan — leadership unaware for 6 hours'}
+      ]
+    },
+    bec: {
+      title: 'Business Email Compromise (BEC)',
+      steps: [
+        {t:'t-dim', msg:'[+] Attacker monitors email traffic for 2 weeks...'},
+        {t:'t-info', msg:'[*] Impersonating CFO — spoofed address: cfO@yourcompany.com'},
+        {t:'t-warn', msg:'[!] Wire transfer request for $47,000 sent to Accounts Payable'},
+        {t:'', msg: defenses.training ? '[FLAGGED] Employee noticed subtle email discrepancy and called CFO to verify' : '[PROCESSED] Wire transfer approved and sent — funds unrecoverable'},
+        {t:'', msg: defenses.filter ? '[FLAGGED] DMARC policy flagged spoofed domain — email quarantined' : '[BYPASSED] No email authentication — spoofed email appeared legitimate'},
+        {t:'t-info', msg: defenses.irp ? '[RESPONSE] Incident reported immediately — bank contacted within 2 hours (recovery possible)' : '[DELAYED] Incident discovered 3 days later during reconciliation — too late for recovery'}
+      ]
+    },
+    insider: {
+      title: 'Insider Threat / Credential Misuse',
+      steps: [
+        {t:'t-dim', msg:'[+] Disgruntled employee begins downloading sensitive files...'},
+        {t:'t-info', msg:'[*] 2.3 GB of customer data transferred to personal Dropbox at 11 PM'},
+        {t:'', msg: defenses.edr ? '[DETECTED] Endpoint monitoring flagged unusual file access and transfer volume' : '[UNDETECTED] No monitoring — data exfiltration goes unnoticed for 3 weeks'},
+        {t:'', msg: '[*] Employee submits resignation the following morning...'},
+        {t:'', msg: '[!] Checks access to CRM — credentials still active 48 hours later'},
+        {t: defenses.irp ? '' : 't-err', msg: defenses.irp ? '[CONTAINED] Offboarding checklist triggered immediate account deactivation' : '[EXPOSED] No offboarding checklist — accounts remain active for 2 weeks post-departure'},
+        {t:'t-info', msg: defCount >= 3 ? '[RECOVERED] Audit trail preserved — legal action possible' : '[LOSS] No audit log — extent of data theft unknown, legal options limited'}
+      ]
+    }
+  };
+
+  var scene = scenarios[type];
+  var outcome = defCount >= 5 ? 'STRONG' : defCount >= 3 ? 'MODERATE' : 'VULNERABLE';
+  var outcomeColor = defCount >= 5 ? '#15803d' : defCount >= 3 ? '#d97706' : '#dc2626';
+
+  document.getElementById('sim-setup').style.display = 'none';
+  document.getElementById('sim-result').style.display = 'block';
+  document.getElementById('sim-result').innerHTML = `
+    <div style="margin-top:16px;">
+      <h3 style="font-size:18px;font-weight:700;color:var(--text);margin-bottom:6px;">Simulation: ${scene.title}</h3>
+      <div class="cd-terminal" id="sim-terminal"><span class="t-dim">Initializing attack simulation...\n</span></div>
+      <div class="cd-result-box" style="margin-top:16px; display:none;" id="sim-outcome">
+        <h3>Simulation Complete</h3>
+        <div style="display:inline-block;background:${outcomeColor}20;color:${outcomeColor};padding:6px 18px;border-radius:100px;font-size:14px;font-weight:700;letter-spacing:0.06em;margin:8px 0;">${outcome} DEFENSE POSTURE</div>
+        <p style="margin-top:10px;">${defCount >= 5 ? 'Your defenses are strong. The attack was detected and contained with minimal damage.' : defCount >= 3 ? 'Your organization survived but had some exposure. Key gaps remain that a more sophisticated attacker could exploit.' : 'Critical gaps allowed the attack to succeed. Without training, MFA, and monitoring, your organization is highly vulnerable.'}</p>
+        <p style="font-weight:600;margin-top:10px;">Active defenses: ${defCount}/6 &nbsp;|&nbsp; Missing: ${6 - defCount} critical controls</p>
+      </div>
+      ${funnelBox()}
+    </div>`;
+
+  var terminal = document.getElementById('sim-terminal');
+  var i = 0;
+  function typeNext() {
+    if (i < scene.steps.length) {
+      var step = scene.steps[i];
+      terminal.innerHTML += `<span class="${step.t || ''}">${step.msg}</span>\n`;
+      terminal.scrollTop = terminal.scrollHeight;
+      i++;
+      setTimeout(typeNext, 900 + Math.random() * 400);
+    } else {
+      document.getElementById('sim-outcome').style.display = 'block';
+    }
+  }
+  setTimeout(typeNext, 500);
+}
+
+function calcDiagnostic() {
+  var total = 30;
+  var checked = 0;
+  for (var i = 1; i <= total; i++) {
+    var el = document.getElementById('ch-d'+i);
+    if (el && el.classList.contains('checked')) checked++;
+  }
+  var pct = Math.round((checked / total) * 100);
+  var level = pct >= 80 ? 'STRONG' : pct >= 60 ? 'MODERATE' : pct >= 40 ? 'DEVELOPING' : 'CRITICAL GAPS';
+  var color = pct >= 80 ? '#15803d' : pct >= 60 ? '#d97706' : pct >= 40 ? '#ea580c' : '#dc2626';
+  document.getElementById('diag-result').innerHTML = `
+    <div class="cd-result-box" style="margin-top:24px;">
+      <h3>Diagnostic Results</h3>
+      <div class="cd-result-score" style="color:${color};">${pct}<span style="font-size:28px;">%</span></div>
+      <div style="display:inline-block;background:${color}20;color:${color};padding:4px 14px;border-radius:100px;font-size:12px;font-weight:700;letter-spacing:0.08em;margin-bottom:12px;">${level}</div>
+      <div class="cd-result-meter"><div class="cd-result-meter-fill" style="width:${pct}%;"></div></div>
+      <p><strong>${checked}/${total} controls</strong> in place. You have <strong>${total - checked} gaps</strong> to address across People, Process, and Technology.</p>
+      <p style="margin-top:10px;">${pct >= 80 ? 'Excellent security posture. Focus on continuous improvement and compliance alignment.' : pct >= 50 ? 'Solid foundation but meaningful gaps remain. Prioritize the unchecked high-impact items first.' : 'Significant gaps across multiple domains. A structured program like the Cyber Doctrine Pilot will address these systematically.'}</p>
+    </div>
+    ${funnelBox()}`;
+}
+
+function funnelBox() {
+  return `<div class="cd-funnel-box">
+    <h3>READY TO FIX THESE GAPS?</h3>
+    <p>The Cyber Doctrine 30-Day Pilot addresses every weakness uncovered by this tool — fully managed, zero IT required.</p>
+    <div class="cd-funnel-btns">
+      <a href="https://thecyberdoctrine.mykajabi.com/joinus" class="cd-btn-primary" target="_blank" style="font-size:13px;padding:11px 22px;">View the Pilot Program →</a>
+      <a href="https://calendly.com/thecyberdoctrine/30min" class="cd-btn-outline" target="_blank" style="font-size:13px;padding:11px 22px;">📅 Book a Free Call</a>
+    </div>
+  </div>`;
+}
+
+function openTool(id) {
+  var content = toolTemplates[id];
+  if (!content) return;
+  document.getElementById('cd-tool-content').innerHTML = content;
+  document.getElementById('cd-tool-overlay').style.display = 'block';
+  document.body.style.overflow = 'hidden';
+  window.scrollTo(0, 0);
+}
+
+function closeTool() {
+  document.getElementById('cd-tool-overlay').style.display = 'none';
+  document.body.style.overflow = '';
+}
+</script>
